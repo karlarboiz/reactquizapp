@@ -1,0 +1,8 @@
+.config {
+    max-width: 40rem;
+    min-height: 25rem;
+    padding: 1rem;
+    margin: 5% auto 0 auto;
+    border-radius: 1rem;
+}
+
